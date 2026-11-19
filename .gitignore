@@ -1,0 +1,30 @@
+# Dependencies & Build Outputs (Frontend)
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+*.tsbuildinfo
+.vite/
+
+# Build Outputs & Compiled Artifacts (Backend / Java)
+backend/target/
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# IDE & OS Files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs & Environment / Local Secrets
+*.log
+npm-debug.log*
+.env
+.env.local
+.env.*.local
+application-local.properties
