@@ -1,4 +1,4 @@
-# AURA STORE – Hệ thống Quản lý Bán hàng & Thương mại Trực tuyến (Release v1.0 Beta)
+# LOTUS STORE – Hệ thống Quản lý Bán hàng & Thương mại Trực tuyến (Release v1.0 Beta)
 
 Ứng dụng web Full-Stack phục vụ bán hàng trực tuyến và thực hành kiểm thử phần mềm (**SQA & QC**), xây dựng với **Java Spring Boot**, **React TypeScript + Tailwind CSS**, và **MariaDB**.
 
