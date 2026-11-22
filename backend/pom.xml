@@ -12,7 +12,7 @@
     </parent>
 
     <groupId>com.aurastore</groupId>
-    <artifactId>aura-store-backend</artifactId>
+    <artifactId>lotus-shop-backend</artifactId>
     <version>1.0.0-beta</version>
     <name>aura-store-backend</name>
     <description>AURA STORE - Sales Management &amp; E-Commerce System (Release v1.0 Beta)</description>
